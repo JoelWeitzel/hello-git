@@ -1,1 +1,1 @@
-print("Hello! I hope this goes well!")
+print("Hello! I hope this goes well!.... Work hard and it will!")
